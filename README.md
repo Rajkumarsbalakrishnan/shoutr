@@ -1,0 +1,2 @@
+# shoutr
+Rails project
